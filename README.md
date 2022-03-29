@@ -13,9 +13,10 @@ First, I'm proposing to make a mad lib game. I'll go through a short story/use v
 Second, I plan to make a hangman game. The user will try to guess the phrase by entering one character at a time. They will have a limited amount of guesses, and an opportunity for a hint if they get stuck. 
 
 ## GUI Mockup #1 (start screen)
-
+![Start Screen](https://user-images.githubusercontent.com/89112469/160680842-2b12f3f1-526e-41b8-9d7a-bc80a9fc9d8c.png)
 ## GUI Mockup #2 (gameplay)
-
+![Gameplay]()
 ## GUI Mockup #3 (endscreen)
-
+![End Screen](https://user-images.githubusercontent.com/89112469/160681688-d8526dd7-dfcf-422e-851d-6ed26d091ee2.png)
 ## Class Diagram
+![Class Diagram]()
