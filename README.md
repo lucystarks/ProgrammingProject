@@ -19,4 +19,4 @@ Second, I plan to make a hangman game. The user will try to guess the phrase by 
 ## GUI Mockup #3 (endscreen)
 ![End Screen](https://user-images.githubusercontent.com/89112469/160681688-d8526dd7-dfcf-422e-851d-6ed26d091ee2.png)
 ## Class Diagram
-![Class Diagram]()
+![Class Diagram](https://user-images.githubusercontent.com/89112469/161112744-942fe22c-cd9f-41db-8014-4bc6d2aac166.png)
