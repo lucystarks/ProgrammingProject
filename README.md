@@ -1,5 +1,5 @@
 # Programming Project Proposal 1
-First, I'm proposing to make a mad lib game. I'll go through a short story leaving blanks for various parts of speech for the user to fill in. I'll plug user input in and the story will change based on what they say. 
+First, I'm proposing to make a mad lib game. I will write three short stories available to the user to participate in. They will be asked for different parts of speech or prompts and those words will be input in the story to make it unique. 
 
 ## GUI Mockup #1 (start screen)
 ![Start Screen](https://user-images.githubusercontent.com/89112469/160669355-eb27543d-6571-4013-9c41-1de9f17c2587.png)
