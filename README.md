@@ -8,7 +8,7 @@ First, I'm proposing to make a mad lib game. I will write three short stories av
 ## GUI Mockup #3 (endscreen)
 ![End Screen](https://user-images.githubusercontent.com/89112469/160669861-14472219-e608-4145-b1af-03002d773665.png)
 ## Class Diagram
-![Class Diagram](https://user-images.githubusercontent.com/89112469/160678102-ee4b9f6a-b232-4b19-95de-183096ba38b5.png)
+![Class Diagram](https://user-images.githubusercontent.com/89112469/167024481-63a9dcf9-6b1e-4c28-a0b4-020961fc859d.png)
 # Programming Project Proposal 2
 Second, I plan to make a hangman game. The user will try to guess the word by entering one character at a time. They will have a limited amount of guesses(one for part of the hangman), and an opportunity for a hint if they get stuck. 
 
